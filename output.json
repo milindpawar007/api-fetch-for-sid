@@ -1,0 +1,2613 @@
+{
+  "feed": {
+    "title": "MSHA_employmentProduction",
+    "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction",
+    "updated": "2023-04-14T16:18:15Z",
+    "link": [
+      "",
+      ""
+    ],
+    "entry": [
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(1L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 1,
+            "mineId": 2900418,
+            "mineName": "Shakespeare Pit",
+            "state": "NM",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2011,
+            "annualHours": 1146,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 1146,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(2L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 2,
+            "mineId": 4500844,
+            "mineName": "Pacific Quarry",
+            "state": "WA",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2011,
+            "annualHours": 1433,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 2,
+            "averageEmployeeHours": 717,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(3L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 3,
+            "mineId": 2401130,
+            "mineName": "FAWCETT PIT",
+            "state": "MT",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2011,
+            "annualHours": 103,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 103,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(4L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 4,
+            "mineId": 2401603,
+            "mineName": "Fisher Industries Plant #20",
+            "state": "MT",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2011,
+            "annualHours": 9018,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 4,
+            "averageEmployeeHours": 2255,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(5L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 5,
+            "mineId": 2300288,
+            "mineName": "ISP Minerals Inc-Annapolis Quarry",
+            "state": "MO",
+            "subUnitCode": 30,
+            "subUnit": "MILL OPERATION/PREPARATION PLANT",
+            "calendarYear": 2011,
+            "annualHours": 118086,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 109,
+            "averageEmployeeHours": 1083,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(6L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 6,
+            "mineId": 2901968,
+            "mineName": "Crusher #1",
+            "state": "NM",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2011,
+            "annualHours": 3068,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 6,
+            "averageEmployeeHours": 511,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(7L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 7,
+            "mineId": 3609824,
+            "mineName": "Damascuse 535 Crushing",
+            "state": "PA",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2011,
+            "annualHours": 9846,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 10,
+            "averageEmployeeHours": 985,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(8L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 8,
+            "mineId": 1518567,
+            "mineName": "Stones Chapel",
+            "state": "KY",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2005,
+            "annualHours": 3514,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 2,
+            "averageEmployeeHours": 1757,
+            "coalMetalInd": "C"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(9L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 9,
+            "mineId": 2300458,
+            "mineName": "Sweetwater Mine/Mill",
+            "state": "MO",
+            "subUnitCode": 2,
+            "subUnit": "SURFACE AT UNDERGROUND",
+            "calendarYear": 2011,
+            "annualHours": 16990,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 14,
+            "averageEmployeeHours": 1214,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(10L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 10,
+            "mineId": 3003164,
+            "mineName": "Halcottsville",
+            "state": "NY",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2011,
+            "annualHours": 440,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 2,
+            "averageEmployeeHours": 220,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(11L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 11,
+            "mineId": 2300741,
+            "mineName": "Nemo Sand &amp; Gravel Quarry",
+            "state": "MO",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2011,
+            "annualHours": 1076,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 2,
+            "averageEmployeeHours": 538,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(12L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 12,
+            "mineId": 3402093,
+            "mineName": "Bison No 1",
+            "state": "OK",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2011,
+            "annualHours": 1197,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 2,
+            "averageEmployeeHours": 599,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(13L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 13,
+            "mineId": 2902282,
+            "mineName": "Bedrock Plant",
+            "state": "NM",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2011,
+            "annualHours": 2735,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 2,
+            "averageEmployeeHours": 1368,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(14L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 14,
+            "mineId": 4103728,
+            "mineName": "LEHIGH CEMENT CO KOSSE CLAY QY",
+            "state": "TX",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2011,
+            "annualHours": 80,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 80,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(15L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 15,
+            "mineId": 2003381,
+            "mineName": "Portable Wash Plant",
+            "state": "MI",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2011,
+            "annualHours": 2,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 2,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(16L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 16,
+            "mineId": 3605874,
+            "mineName": "Mt. Pleasant Mills Quarry",
+            "state": "PA",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2011,
+            "annualHours": 810,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 4,
+            "averageEmployeeHours": 203,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(17L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 17,
+            "mineId": 3606146,
+            "mineName": "SLIPPERY ROCK",
+            "state": "PA",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2011,
+            "annualHours": 29405,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 23,
+            "averageEmployeeHours": 1278,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(18L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 18,
+            "mineId": 3800232,
+            "mineName": "Inman Stone Company",
+            "state": "SC",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2011,
+            "annualHours": 1962,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 2,
+            "averageEmployeeHours": 981,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(19L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 19,
+            "mineId": 4608932,
+            "mineName": "Kingston No. 2",
+            "state": "WV",
+            "subUnitCode": 2,
+            "subUnit": "SURFACE AT UNDERGROUND",
+            "calendarYear": 2005,
+            "annualHours": 8348,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 3,
+            "averageEmployeeHours": 2783,
+            "coalMetalInd": "C"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(20L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 20,
+            "mineId": 103280,
+            "mineName": "Ellis Brothers Quarry",
+            "state": "AL",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2005,
+            "annualHours": 5,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 5,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(21L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 21,
+            "mineId": 3608148,
+            "mineName": "Fiddler's Elbow Quarry",
+            "state": "PA",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2011,
+            "annualHours": 2555,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 2,
+            "averageEmployeeHours": 1278,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(22L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 22,
+            "mineId": 102606,
+            "mineName": "Selma Gravel Inc.",
+            "state": "AL",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2005,
+            "annualHours": 2369,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 2369,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(23L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 23,
+            "mineId": 4800977,
+            "mineName": "Black Thunder",
+            "state": "WY",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2005,
+            "annualHours": 1942507,
+            "annualCostProduction": 87586375,
+            "averageEmployeeCount": 862,
+            "averageEmployeeHours": 2253,
+            "coalMetalInd": "C"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(24L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 24,
+            "mineId": 2302237,
+            "mineName": "UEHLIN UNDERGROUND",
+            "state": "MO",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2011,
+            "annualHours": 300,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 300,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(25L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 25,
+            "mineId": 3400359,
+            "mineName": "Dover Sand Plant",
+            "state": "OK",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2011,
+            "annualHours": 1180,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 1180,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(26L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 26,
+            "mineId": 405229,
+            "mineName": "Mosler Rock-Ojai Quarry",
+            "state": "CA",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2005,
+            "annualHours": 8743,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 5,
+            "averageEmployeeHours": 1749,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(27L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 27,
+            "mineId": 400213,
+            "mineName": "Lebec Cement Plant",
+            "state": "CA",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2005,
+            "annualHours": 38711,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 19,
+            "averageEmployeeHours": 2037,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(28L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 28,
+            "mineId": 4104385,
+            "mineName": "Groesbeck Quarry",
+            "state": "TX",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2011,
+            "annualHours": 4370,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 6,
+            "averageEmployeeHours": 728,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(29L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 29,
+            "mineId": 4202397,
+            "mineName": "Staker/Parson Fast Pack",
+            "state": "UT",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2011,
+            "annualHours": 8107,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 8,
+            "averageEmployeeHours": 1013,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(30L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 30,
+            "mineId": 2302351,
+            "mineName": "Martin Construction",
+            "state": "MO",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2011,
+            "annualHours": 263,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 263,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(31L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 31,
+            "mineId": 4100308,
+            "mineName": "FLATONIA MINES &amp; PLANT",
+            "state": "TX",
+            "subUnitCode": 30,
+            "subUnit": "MILL OPERATION/PREPARATION PLANT",
+            "calendarYear": 2011,
+            "annualHours": 18721,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 9,
+            "averageEmployeeHours": 2080,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(32L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 32,
+            "mineId": 403496,
+            "mineName": "COLTON PLANT",
+            "state": "CA",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2005,
+            "annualHours": 2080,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 2080,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(33L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 33,
+            "mineId": 4701184,
+            "mineName": "Fairwater Plant",
+            "state": "WI",
+            "subUnitCode": 30,
+            "subUnit": "MILL OPERATION/PREPARATION PLANT",
+            "calendarYear": 2011,
+            "annualHours": 44275,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 24,
+            "averageEmployeeHours": 1845,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(34L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 34,
+            "mineId": 4702429,
+            "mineName": "Wash Plant 1",
+            "state": "WI",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2011,
+            "annualHours": 2,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 2,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(35L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 35,
+            "mineId": 5400438,
+            "mineName": "Cantera De Jesus",
+            "state": "PR",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2011,
+            "annualHours": 976,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 2,
+            "averageEmployeeHours": 488,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(36L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 36,
+            "mineId": 202913,
+            "mineName": "Chino Pit",
+            "state": "AZ",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2005,
+            "annualHours": 17250,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 12,
+            "averageEmployeeHours": 1438,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(37L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 37,
+            "mineId": 202713,
+            "mineName": "Roeder et all",
+            "state": "AZ",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2005,
+            "annualHours": 40,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 40,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(38L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 38,
+            "mineId": 1202047,
+            "mineName": "Plainville Mine",
+            "state": "IN",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2005,
+            "annualHours": 1835,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 1835,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(39L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 39,
+            "mineId": 4702974,
+            "mineName": "Crushing Plant 1",
+            "state": "WI",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2011,
+            "annualHours": 10,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 10,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(40L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 40,
+            "mineId": 4801741,
+            "mineName": "Plant 2",
+            "state": "WY",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2011,
+            "annualHours": 933,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 8,
+            "averageEmployeeHours": 117,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(41L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 41,
+            "mineId": 1400606,
+            "mineName": "MIDLAND QUARRY",
+            "state": "KS",
+            "subUnitCode": 1,
+            "subUnit": "UNDERGROUND",
+            "calendarYear": 2005,
+            "annualHours": 1130,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 3,
+            "averageEmployeeHours": 377,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(42L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 42,
+            "mineId": 5100045,
+            "mineName": "CTS Earthmoving Inc",
+            "state": "HI",
+            "subUnitCode": 30,
+            "subUnit": "MILL OPERATION/PREPARATION PLANT",
+            "calendarYear": 2011,
+            "annualHours": 220,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 2,
+            "averageEmployeeHours": 110,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(43L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 43,
+            "mineId": 1601281,
+            "mineName": "BOX #9",
+            "state": "LA",
+            "subUnitCode": 6,
+            "subUnit": "DREDGE",
+            "calendarYear": 2005,
+            "annualHours": 18913,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 6,
+            "averageEmployeeHours": 3152,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(44L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 44,
+            "mineId": 1700699,
+            "mineName": "Cole Pit/Fowler Pit",
+            "state": "ME",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2005,
+            "annualHours": 174,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 3,
+            "averageEmployeeHours": 58,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(45L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 45,
+            "mineId": 2002731,
+            "mineName": "Caledonia",
+            "state": "MI",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2005,
+            "annualHours": 50,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 50,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(46L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 46,
+            "mineId": 1700148,
+            "mineName": "Alton Wash Plant",
+            "state": "ME",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2005,
+            "annualHours": 4,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 4,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(47L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 47,
+            "mineId": 1518789,
+            "mineName": "P&amp;W Rock, Inc.",
+            "state": "KY",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2005,
+            "annualHours": 6,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 6,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(48L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 48,
+            "mineId": 1700623,
+            "mineName": "Sunrise Materials Medway Plant",
+            "state": "ME",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2005,
+            "annualHours": 2345,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 4,
+            "averageEmployeeHours": 586,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(49L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 49,
+            "mineId": 3000809,
+            "mineName": "Saunders Concrete",
+            "state": "NY",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2005,
+            "annualHours": 1931,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 1931,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(50L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 50,
+            "mineId": 2700217,
+            "mineName": "Cold River Materials, Westmoreland",
+            "state": "NH",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2005,
+            "annualHours": 32,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 32,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(51L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 51,
+            "mineId": 3101125,
+            "mineName": "Lilesville Mine",
+            "state": "NC",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2005,
+            "annualHours": 84089,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 36,
+            "averageEmployeeHours": 2336,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(52L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 52,
+            "mineId": 3200652,
+            "mineName": "Leonardite Products Mine&amp;Mill Operation",
+            "state": "ND",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2005,
+            "annualHours": 1791,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 1791,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(53L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 53,
+            "mineId": 3301652,
+            "mineName": "Soehnlen Brothers Sand &amp; Gravel Inc.",
+            "state": "OH",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2005,
+            "annualHours": 9867,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 5,
+            "averageEmployeeHours": 1973,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(54L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 54,
+            "mineId": 3300167,
+            "mineName": "Tri County Limestone Company",
+            "state": "OH",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2005,
+            "annualHours": 2732,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 2,
+            "averageEmployeeHours": 1366,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(55L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 55,
+            "mineId": 3100064,
+            "mineName": "BELGRADE QUARRY",
+            "state": "NC",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2005,
+            "annualHours": 5056,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 2,
+            "averageEmployeeHours": 2528,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(56L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 56,
+            "mineId": 4103553,
+            "mineName": "MILLSAP SHALE PIT",
+            "state": "TX",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2005,
+            "annualHours": 16470,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 8,
+            "averageEmployeeHours": 2059,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(57L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 57,
+            "mineId": 4003187,
+            "mineName": "Laurelbrook Quarry",
+            "state": "TN",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2005,
+            "annualHours": 36817,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 24,
+            "averageEmployeeHours": 1534,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(58L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 58,
+            "mineId": 4202309,
+            "mineName": "Mayfield Pit",
+            "state": "UT",
+            "subUnitCode": 30,
+            "subUnit": "MILL OPERATION/PREPARATION PLANT",
+            "calendarYear": 2005,
+            "annualHours": 1703,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 2,
+            "averageEmployeeHours": 852,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(59L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 59,
+            "mineId": 4300088,
+            "mineName": "HADEKA STONE CORP.",
+            "state": "VT",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2005,
+            "annualHours": 2120,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 2120,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(60L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 60,
+            "mineId": 4406640,
+            "mineName": "Mecklenburg Rock",
+            "state": "VA",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2005,
+            "annualHours": 4859,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 2,
+            "averageEmployeeHours": 2430,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(61L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 61,
+            "mineId": 4202137,
+            "mineName": "Browns Canyon Quarry",
+            "state": "UT",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2005,
+            "annualHours": 246,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 246,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(62L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 62,
+            "mineId": 3608735,
+            "mineName": "Ginger Hill Synfuels Lp",
+            "state": "PA",
+            "subUnitCode": 30,
+            "subUnit": "MILL OPERATION/PREPARATION PLANT",
+            "calendarYear": 2000,
+            "annualHours": 34178,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 17,
+            "averageEmployeeHours": 2010,
+            "coalMetalInd": "C"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(63L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 63,
+            "mineId": 4608677,
+            "mineName": "Sweeps Run #2",
+            "state": "WV",
+            "subUnitCode": 4,
+            "subUnit": "AUGER",
+            "calendarYear": 2000,
+            "annualHours": 480,
+            "annualCostProduction": 1587,
+            "averageEmployeeCount": 3,
+            "averageEmployeeHours": 160,
+            "coalMetalInd": "C"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(64L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 64,
+            "mineId": 4608761,
+            "mineName": "No 8 Mine",
+            "state": "WV",
+            "subUnitCode": 1,
+            "subUnit": "UNDERGROUND",
+            "calendarYear": 2000,
+            "annualHours": 93096,
+            "annualCostProduction": 310344,
+            "averageEmployeeCount": 45,
+            "averageEmployeeHours": 2069,
+            "coalMetalInd": "C"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(65L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 65,
+            "mineId": 101983,
+            "mineName": "Smith Sand Company Inc.",
+            "state": "AL",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2000,
+            "annualHours": 4160,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 2,
+            "averageEmployeeHours": 2080,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(66L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 66,
+            "mineId": 103199,
+            "mineName": "Collinsville Rock Quarry",
+            "state": "AL",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2000,
+            "annualHours": 28827,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 16,
+            "averageEmployeeHours": 1802,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(67L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 67,
+            "mineId": 4604387,
+            "mineName": "Prime No. 1 Mine",
+            "state": "WV",
+            "subUnitCode": 2,
+            "subUnit": "SURFACE AT UNDERGROUND",
+            "calendarYear": 2000,
+            "annualHours": 4838,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 2,
+            "averageEmployeeHours": 2419,
+            "coalMetalInd": "C"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(68L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 68,
+            "mineId": 901130,
+            "mineName": "SABER MINE",
+            "state": "GA",
+            "subUnitCode": 6,
+            "subUnit": "DREDGE",
+            "calendarYear": 2000,
+            "annualHours": 2020,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 2020,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(69L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 69,
+            "mineId": 1001976,
+            "mineName": "Middleton Pit",
+            "state": "ID",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2000,
+            "annualHours": 2981,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 2,
+            "averageEmployeeHours": 1491,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(70L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 70,
+            "mineId": 1100023,
+            "mineName": "PORTABLE PLANT #1",
+            "state": "IL",
+            "subUnitCode": 30,
+            "subUnit": "MILL OPERATION/PREPARATION PLANT",
+            "calendarYear": 2000,
+            "annualHours": 2030,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 4,
+            "averageEmployeeHours": 508,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(71L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 71,
+            "mineId": 1001574,
+            "mineName": "Beartrack Mine",
+            "state": "ID",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2000,
+            "annualHours": 5791,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 7,
+            "averageEmployeeHours": 827,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(72L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 72,
+            "mineId": 2501041,
+            "mineName": "Hubbard Pit",
+            "state": "NE",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2000,
+            "annualHours": 2,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 2,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(73L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 73,
+            "mineId": 2501046,
+            "mineName": "PLANT #280",
+            "state": "NE",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2000,
+            "annualHours": 14383,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 7,
+            "averageEmployeeHours": 2055,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(74L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 74,
+            "mineId": 2600411,
+            "mineName": "Greystone Mine",
+            "state": "NV",
+            "subUnitCode": 30,
+            "subUnit": "MILL OPERATION/PREPARATION PLANT",
+            "calendarYear": 2000,
+            "annualHours": 33234,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 19,
+            "averageEmployeeHours": 1749,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(75L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 75,
+            "mineId": 2602030,
+            "mineName": "American Sand &amp; Gravel #1",
+            "state": "NV",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2000,
+            "annualHours": 3355,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 2,
+            "averageEmployeeHours": 1678,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(76L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 76,
+            "mineId": 2900189,
+            "mineName": "ROCKY MOUNTAIN MINE",
+            "state": "NM",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2000,
+            "annualHours": 5236,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 2,
+            "averageEmployeeHours": 2618,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(77L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 77,
+            "mineId": 2700128,
+            "mineName": "Madbury Pit C629",
+            "state": "NH",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2000,
+            "annualHours": 3310,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 6,
+            "averageEmployeeHours": 552,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(78L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 78,
+            "mineId": 2700243,
+            "mineName": "Galloway Trucking Inc",
+            "state": "NH",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2000,
+            "annualHours": 4770,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 3,
+            "averageEmployeeHours": 1590,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(79L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 79,
+            "mineId": 2800717,
+            "mineName": "Cedar Bridge Sand Operation",
+            "state": "NJ",
+            "subUnitCode": 6,
+            "subUnit": "DREDGE",
+            "calendarYear": 2000,
+            "annualHours": 9767,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 4,
+            "averageEmployeeHours": 2442,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(80L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 80,
+            "mineId": 2700289,
+            "mineName": "LA Drew-Portable Plant",
+            "state": "NH",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2000,
+            "annualHours": 3078,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 2,
+            "averageEmployeeHours": 1539,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(81L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 81,
+            "mineId": 3200780,
+            "mineName": "Clark Construction",
+            "state": "ND",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2000,
+            "annualHours": 497,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 497,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(82L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 82,
+            "mineId": 4103821,
+            "mineName": "Stephens Pit",
+            "state": "TX",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2000,
+            "annualHours": 8002,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 11,
+            "averageEmployeeHours": 727,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(83L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 83,
+            "mineId": 4103778,
+            "mineName": "Portable Crusher #1",
+            "state": "TX",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2000,
+            "annualHours": 6094,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 5,
+            "averageEmployeeHours": 1219,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(84L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 84,
+            "mineId": 4102241,
+            "mineName": "Buda Quarry",
+            "state": "TX",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2000,
+            "annualHours": 65248,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 21,
+            "averageEmployeeHours": 3107,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(85L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 85,
+            "mineId": 4503461,
+            "mineName": "Pit #1",
+            "state": "WA",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2000,
+            "annualHours": 264,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 264,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(86L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 86,
+            "mineId": 4406964,
+            "mineName": "Kenson Plant",
+            "state": "VA",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2000,
+            "annualHours": 3054,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 3054,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(87L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 87,
+            "mineId": 4501207,
+            "mineName": "Jensen Portable Screens",
+            "state": "WA",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2000,
+            "annualHours": 1400,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 1,
+            "averageEmployeeHours": 1400,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(88L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 88,
+            "mineId": 4400022,
+            "mineName": "Burkeville Plant",
+            "state": "VA",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2000,
+            "annualHours": 19824,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 9,
+            "averageEmployeeHours": 2203,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(89L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 89,
+            "mineId": 4608259,
+            "mineName": "Flag Run #1",
+            "state": "WV",
+            "subUnitCode": 1,
+            "subUnit": "UNDERGROUND",
+            "calendarYear": 2001,
+            "annualHours": 29744,
+            "annualCostProduction": 141701,
+            "averageEmployeeCount": 15,
+            "averageEmployeeHours": 1983,
+            "coalMetalInd": "C"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(90L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 90,
+            "mineId": 4103101,
+            "mineName": "South Hallsville No 1 Mine",
+            "state": "TX",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2001,
+            "annualHours": 304154,
+            "annualCostProduction": 3248209,
+            "averageEmployeeCount": 143,
+            "averageEmployeeHours": 2127,
+            "coalMetalInd": "C"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(91L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 91,
+            "mineId": 4405971,
+            "mineName": "Stoker",
+            "state": "VA",
+            "subUnitCode": 30,
+            "subUnit": "MILL OPERATION/PREPARATION PLANT",
+            "calendarYear": 2001,
+            "annualHours": 11654,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 5,
+            "averageEmployeeHours": 2331,
+            "coalMetalInd": "C"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(92L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 92,
+            "mineId": 3605518,
+            "mineName": "Eagle Hill Strip",
+            "state": "PA",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2001,
+            "annualHours": 9724,
+            "annualCostProduction": 19855,
+            "averageEmployeeCount": 4,
+            "averageEmployeeHours": 2431,
+            "coalMetalInd": "C"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(93L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 93,
+            "mineId": 100052,
+            "mineName": "Wade Sand &amp; Gravel Co., Inc.",
+            "state": "AL",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2001,
+            "annualHours": 109410,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 41,
+            "averageEmployeeHours": 2669,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(94L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 94,
+            "mineId": 100853,
+            "mineName": "LACON QUARRY",
+            "state": "AL",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2001,
+            "annualHours": 8954,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 5,
+            "averageEmployeeHours": 1791,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(95L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 95,
+            "mineId": 4608846,
+            "mineName": "ABC Corp",
+            "state": "WV",
+            "subUnitCode": 6,
+            "subUnit": "DREDGE",
+            "calendarYear": 2001,
+            "annualHours": 15342,
+            "annualCostProduction": 43231,
+            "averageEmployeeCount": 6,
+            "averageEmployeeHours": 2557,
+            "coalMetalInd": "C"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(96L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 96,
+            "mineId": 1201455,
+            "mineName": "S &amp; G Excavating Inc. South Pit",
+            "state": "IN",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2001,
+            "annualHours": 34571,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 13,
+            "averageEmployeeHours": 2659,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(97L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 97,
+            "mineId": 1100100,
+            "mineName": "Kankakee Quarry &amp; Mill",
+            "state": "IL",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2001,
+            "annualHours": 13119,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 5,
+            "averageEmployeeHours": 2624,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(98L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 98,
+            "mineId": 1302190,
+            "mineName": "PRP #5",
+            "state": "IA",
+            "subUnitCode": 99,
+            "subUnit": "OFFICE WORKERS AT MINE SITE",
+            "calendarYear": 2001,
+            "annualHours": 11481,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 6,
+            "averageEmployeeHours": 1914,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(99L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 99,
+            "mineId": 1302099,
+            "mineName": "Gravel Plant #5",
+            "state": "IA",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2001,
+            "annualHours": 2210,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 2,
+            "averageEmployeeHours": 1105,
+            "coalMetalInd": "M"
+          }
+        }
+      },
+      {
+        "id": "https://api.dol.gov/V1/Employment/MSHA_employmentProduction(100L)",
+        "title": "",
+        "updated": "2023-04-14T16:18:15Z",
+        "author": {
+          "name": ""
+        },
+        "link": "",
+        "category": "",
+        "content": {
+          "properties": {
+            "id": 100,
+            "mineId": 1401470,
+            "mineName": "Plant #80011",
+            "state": "KS",
+            "subUnitCode": 3,
+            "subUnit": "STRIP, QUARY, OPEN PIT",
+            "calendarYear": 2001,
+            "annualHours": 16780,
+            "annualCostProduction": "",
+            "averageEmployeeCount": 9,
+            "averageEmployeeHours": 1864,
+            "coalMetalInd": "M"
+          }
+        }
+      }
+    ]
+  }
+}
